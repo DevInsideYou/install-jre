@@ -10,4 +10,4 @@ sudo update-alternatives --config java
 java -version
 
 # remove yourself
-# rm $0
+rm $0
